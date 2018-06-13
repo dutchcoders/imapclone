@@ -1,0 +1,6 @@
+elasticsearch_url="http://127.0.0.1:9200/imapclone"
+
+[[mailbox]]
+server="imap-mail.outlook.com:993"
+username="username"
+password="password"
